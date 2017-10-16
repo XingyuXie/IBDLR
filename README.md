@@ -1,2 +1,2 @@
 # KLRBD
-code for Kernel Low-Rank Block Diagonal model
+code for Implicit Block Diagonal Low-Rank Representation
